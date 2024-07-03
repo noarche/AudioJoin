@@ -12,3 +12,9 @@ Update: Added scripts to convert formats. Added windows portable executables.
 Update: I was unable to add a step to embed image that seemed to work in this script, I have added an optional file 'EmbedJpgMp3AlbumArtv2.py' if you want to add album art, this also allows you to only run EmbedJpgMp3AlbumArtv2.py if you have no audio to join. 
 
 ![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
+
+# Need to embed image to your audio file?
+
+Simple app to embed any image to .mp3 file:
+
+https://github.com/noarche/EmbedJpgMp3AlbumArt
